@@ -1,0 +1,1 @@
+pip install gunicornweb: gunicorn myproject.wsgi
