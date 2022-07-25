@@ -82,7 +82,7 @@
 
 ### Database Schema - Entity Relationship Diagram
 
-![Database Schema](documentation/wireframes/database-schema.png)
+![Database Schema](documentation/wireframes/database_schema.png)
 
 ### Font, Color Scheme and Icons
 
