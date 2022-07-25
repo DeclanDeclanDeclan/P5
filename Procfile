@@ -1,1 +1,1 @@
-pip install gunicornweb: gunicorn myproject.wsgi
+web: gunicorn artfullyyours.wsgi
